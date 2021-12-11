@@ -9,6 +9,7 @@ TagManager:
   - CoinTag
   - GoalTag
   - kabeTag
+  - unitychanTag
   layers:
   - Default
   - TransparentFX
